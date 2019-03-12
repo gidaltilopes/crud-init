@@ -1,1 +1,1 @@
-# Test of CRUD using MySQL in python
+# CRUD test using python and MySQL
